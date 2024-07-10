@@ -7,8 +7,8 @@ byear1:int = int(input("Please enter the birth year: "))
 
 print("Second user details:")
 id2:str = input("Please enter the user id: ")
-fname2:int = int(input("Please enter the first name: "))
-lname2:int = int(input("Please enter the last name: "))
+fname2:str = input("Please enter the first name: ")
+lname2:str = input("Please enter the last name: "))
 height2:float = float(input("Please enter the height: "))
 byear2:int = int(input("Please enter the birth year: "))
 
