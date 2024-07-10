@@ -1,0 +1,6 @@
+id:str = input("Please enter your id: ")
+fname:str = input("Please enter your first name: ")
+lname:str = input("Please enter your last name: ")
+height:float = float(input("Please enter your height: "))
+byear:int = int(input("Please enter your birth year: "))
+print(f"#id: {id} name: {lname}, {fname} height: {height} year-of-birth: {byear}")
