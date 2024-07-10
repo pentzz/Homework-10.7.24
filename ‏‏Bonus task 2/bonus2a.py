@@ -1,6 +1,6 @@
 slices:int= int(input("Please enter the number of slices: "))
 x:int=int(slices/4)
-y=slices%4
+y:int=int(slices%4)
 
 if slices<1 :
     print("Please enter a vaild number of slices!")
