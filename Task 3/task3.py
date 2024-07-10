@@ -22,3 +22,5 @@ match vol:
         print("extremely loud")
     case 10:
         print("extremely loud")
+    case _:
+        print("Please enter a number between 0-10")
